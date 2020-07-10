@@ -1,0 +1,12 @@
+#ButtonsCanvas button{
+	font-size:55pt;
+	width:100px;
+	height:100px;
+}
+#PicturesCanvas img{
+	width:97px;
+	height:73px;     
+	border:1px solid silver;
+	border-right:2px solid black;
+	border-bottom:1px solid black;
+}
